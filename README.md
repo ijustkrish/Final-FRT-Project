@@ -17,4 +17,6 @@ LevelZer0 is a gaming blog website dedicated to providing gamers with the latest
 - CSS
 - JavaScript
 
+Here is the link of my project: https://ashy-sea-0bbec6910.3.azurestaticapps.net/
+
 # Happy C0d1ng!
