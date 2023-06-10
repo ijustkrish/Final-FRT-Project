@@ -16,3 +16,5 @@ LevelZer0 is a gaming blog website dedicated to providing gamers with the latest
 - HTML
 - CSS
 - JavaScript
+
+# Happy C0d1ng!
