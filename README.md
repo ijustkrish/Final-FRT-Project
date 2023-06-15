@@ -33,6 +33,8 @@ LevelZer0 is a gaming blog website dedicated to providing gamers with the latest
 
 ![azure-devops-2](https://github.com/ijustkrish/Final-FRT-Project/assets/90437842/d5e59bc3-2c0b-4a81-9166-3d5fb4127cbc)
 
+![import-2](https://github.com/ijustkrish/Final-FRT-Project/assets/90437842/c91d0fd4-4937-443e-9795-1cd8ea7b7749)
+
 
 # Project Screenshot
 ## Homepage
